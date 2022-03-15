@@ -29,7 +29,7 @@ public class ChainReaction : MonoBehaviour
         {
             if (GameObject.Find("Enemy") != null)
             {
-                collision.gameObject.GetComponent<EnemyDamage2>().destroy = true;
+                collision.gameObject.GetComponent<EnemyDamage>().destroy = true;
             }
             Destroy(gameObject);
         }
