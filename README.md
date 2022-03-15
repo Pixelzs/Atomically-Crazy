@@ -1,2 +1,2 @@
 # Atomically-Crazy
-Portfolio
+This is a repository to show Portfolio for programming
